@@ -1,0 +1,4 @@
+info1.txt
+
+este archivo se agrega al proyecto hello-word para subirlo all remoto
+
